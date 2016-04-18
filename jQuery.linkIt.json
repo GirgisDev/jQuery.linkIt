@@ -5,8 +5,8 @@
     "keywords": [
         "link",
         "anchor",
-        "html link",
-        "to a"
+        "html",
+        "content"
     ],
     "version": "0.1.0",
     "author": {
@@ -16,8 +16,7 @@
     "maintainers": [
         {
             "name": "Girgis Abdel-malak",
-            "email": "girgis.developer@gmail.com",
-            "url": ""
+            "email": "girgis.developer@gmail.com"
         }
     ],
     "licenses": [
@@ -26,10 +25,8 @@
             "url": "https://github.com/GirgisDev/jQuery.linkIt/blob/master/LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/GirgisDev/jQuery.linkIt",
     "homepage": "https://github.com/GirgisDev/jQuery.linkIt",
     "docs": "https://github.com/GirgisDev/jQuery.linkIt",
-    "download": "https://github.com/GirgisDev/jQuery.linkIt",
     "dependencies": {
         "jquery": ">=1.9"
     }
