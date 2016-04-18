@@ -23,14 +23,17 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+            "url": "https://github.com/GirgisDev/jQuery.linkIt/blob/master/LICENSE.txt"
         }
     ],
-    "bugs": "https://github.com/jquery/jquery-color/issues",
-    "homepage": "https://github.com/jquery/jquery-color",
-    "docs": "https://github.com/jquery/jquery-color",
-    "download": "http://code.jquery.com/#color",
+    "bugs": "https://github.com/GirgisDev/jQuery.linkIt",
+    "homepage": "https://github.com/GirgisDev/jQuery.linkIt",
+    "docs": "https://github.com/GirgisDev/jQuery.linkIt",
+    "download": "https://github.com/GirgisDev/jQuery.linkIt",
     "dependencies": {
-        "jquery": ">=1.5"
+        "jquery": ">=1.9"
     }
 }
+
+// just for learning 
+// this plugin isn't developed by me and it's not mine even if my name and other information on it. it's just for purpose of learn
