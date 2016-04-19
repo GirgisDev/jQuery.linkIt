@@ -28,7 +28,7 @@
     "homepage": "https://github.com/GirgisDev/jQuery.linkIt",
     "docs": "https://github.com/GirgisDev/jQuery.linkIt",
     "dependencies": {
-        "jquery": ">=1.9"
+        "jquery": ">=1.5"
     }
 }
 
